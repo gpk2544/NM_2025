@@ -1,0 +1,11 @@
+tkinter
+ttkbootstrap
+pyttsx3
+SpeechRecognition
+requests
+randfacts
+wikipedia
+pillow
+opencv-python
+selenium
+webdriver-manager
